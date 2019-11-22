@@ -1,0 +1,18 @@
+html{
+    background-color: brown;
+
+}
+nav{ 
+    color: chartreuse;
+    padding: 5px;
+    background-color: red;
+}
+nav img{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
+nav img{width: 100px;
+    height: 100;
+    border-block-end: 30%;
+}
