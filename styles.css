@@ -37,8 +37,12 @@ img{
   }
   p{
       font-family: sans-serif;
+      font-size: 24p;
   }
   ul{
       line-height: 60px;
   }
     
+wrapper{background-color: aqua;
+
+}
