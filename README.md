@@ -37,3 +37,4 @@ GIT( for version control)
 ## support and contact details
 
 ## licence
+MIT licences
