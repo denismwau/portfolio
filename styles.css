@@ -103,5 +103,9 @@ li{
 .btn1::before,.btn3::before{
     top: 0;
     border-radius: 50%;
-    
+
+}
+.btn::before{
+    top: 0%;
+    border-radius: 50%;
 }
